@@ -1,0 +1,10 @@
+{
+  "name": "trabajos-parttime-nz",
+  "version": "1.0.0",
+  "description": "Sitio de avisos de trabajos part-time en Nueva Zelanda, en español (PWA)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "ISC"
+}
